@@ -43,6 +43,7 @@
 
 ## 🌱 I’m currently learning
 - SwiftUI
+- Swift Testing
   
 <!--
 **dyaremyshyn/dyaremyshyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
